@@ -4,7 +4,7 @@ Una aplicación de ReactJS que muestra a tiempo real diversos aspectos del clima
 This is a ReactJS app that shows in real time different aspects of weather and predictions for next days, of any city in the world.
 
 ## Demo
-![GIF del funcionamiento de la app](/React-Weather-App-Demo.gif)
+![GIF del funcionamiento de la app](/public/React-Weather-App-Demo.gif)
 
 ## Lenguajes utilizados
 - HTML
