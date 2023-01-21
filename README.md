@@ -1,3 +1,21 @@
+# React-Weather-App
+Una aplicación de ReactJS que muestra a tiempo real diversos aspectos del clima y predicciones de los próximos días, de cualquier ciudad del mundo.
+
+This is a ReactJS app that shows in real time different aspects of weather and predictions for next days, of any city in the world.
+
+## Demo
+![GIF del funcionamiento de la app](/public/assets/React-Weather-App-Demo.gif)
+
+## Lenguajes utilizados
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+
+## Linkedin
+[Ezequiel Bargalló](https://www.linkedin.com/in/ezequiel-bargall%C3%B3-284277258)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
